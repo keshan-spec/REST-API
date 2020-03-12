@@ -21,5 +21,4 @@ app.put('/users/:id', queries.updateUser)
 app.delete('/users/:id', queries.deleteUser)
 
 
-
 app.listen(3000)
